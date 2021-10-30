@@ -1,4 +1,4 @@
-<a href="#" align="center"><img src="Github-removebg-preview.png" height="200px" width="250px"/></a>
+<div align="center"><img src="Github-removebg-preview.png" height="200px" width="250px"/></div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ritwik</h1>
 <h3 align="center">I'm a Frontend Developer and UI/UX Designer.</h3>
