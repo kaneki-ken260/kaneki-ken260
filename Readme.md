@@ -1,5 +1,3 @@
-<p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="25%"/></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ritwik</h1>
 <h3 align="center">I'm a Frontend Developer and UI/UX Designer.</h3>
 <br/>
