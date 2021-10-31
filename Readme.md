@@ -1,5 +1,7 @@
+<p align="center" ><img 
+ src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ritwik</h1>
-<h2 align="center">I'm a Frontend Developer and UI/UX Designer.</h2>
+<h3 align="center">I'm a Frontend Developer and UI/UX Designer.</h3>
 <br/>
 <br/>
 
@@ -56,9 +58,9 @@
 
 [![Ritwik's GitHub Activity Graph]<a href="https://github.com/kaneki-ken260/github-readme-activity-graph"><img alt="Ritwik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kaneki-ken260&bg_color=0D1117&color=8A87FF&line=8A87FF&point=FFFFFF&hide_border=true" /></a>](https://git.io/praveenscience)
 
-| ![Ritwik's github stats](https://github-readme-stats.vercel.app/api?username=kaneki-ken260&show_icons=true&theme=tokyonight) | ![Ritwik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaneki-ken260&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaneki-ken260&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kaneki-ken260&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Ritwik's github stats](https://github-readme-stats.vercel.app/api?username=kaneki-ken260&show_icons=true&theme=tokyonight) | ![Ritwik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaneki-ken260&theme=tokyonight)                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaneki-ken260&theme=tokyonight)                  | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kaneki-ken260&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <br/>
 <p align="left">
