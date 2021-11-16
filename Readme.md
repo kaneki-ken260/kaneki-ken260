@@ -54,7 +54,7 @@
 
 
 
-[![Ritwik's GitHub Activity Graph]<a href="https://github.com/kaneki-ken260/github-readme-activity-graph"><img alt="Ritwik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kaneki-ken260&bg_color=0D1117&color=8A87FF&line=8A87FF&point=FFFFFF&hide_border=true" /></a>](https://git.io/praveenscience)
+<a href="https://github.com/kaneki-ken260/github-readme-activity-graph"><img alt="Ritwik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kaneki-ken260&bg_color=0D1117&color=8A87FF&line=8A87FF&point=FFFFFF&hide_border=true" /></a>](https://git.io/praveenscience)
 
 | ![Ritwik's github stats](https://github-readme-stats.vercel.app/api?username=kaneki-ken260&show_icons=true&theme=tokyonight) | ![Ritwik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaneki-ken260&theme=tokyonight)                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
