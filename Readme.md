@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/kaneki-ken260)**
 
-- 📫 How to reach me **hritwiksinghrajput10325@yahoo.com**📩
+- 📫 How to reach me **ritwikrajput620@gmail.com**📩
 
 - ⚡ Fun fact **I love to watch series and animes.**
 <br/>
